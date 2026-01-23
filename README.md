@@ -123,18 +123,7 @@ Este projeto **não tem finalidade produtiva**, sendo voltado exclusivamente ao 
 - Inclusão de uma classe neutra
 - Uso de técnicas mais avançadas de NLP
 
-### 🗂 Estrutura do Projeto
 
-📁 classificacao-reviews-produtos
-├── assets/
-│ └── imagens e gráficos utilizados no relatório
-├── data/
-│ └── reviews_produtos.csv
-├── notebook/
-│ └── modelo_classificacao_reviews.ipynb
-├── relatorio/
-│ └── relatorio_classificacao_reviews.pdf
-└── README.md
 
 ---
 
